@@ -1,8 +1,5 @@
 ## Hi there 👋🏾
 
-<!--
-**Gertrude-C/Gertrude-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi there 👋🏾 I’m Gertrude 
 
 🔭 I’m currently working on Business Intelligence projects, optimizing data workflows, and supporting organizations with actionable insights.
@@ -24,19 +21,13 @@ I’m passionate about helping businesses harness their data to uncover opportun
 
 💡 Specialties & Skills
 
-Business Intelligence & Data Analysis
-
-SQL, Tableau, Excel
-
-Project Management & Operational Strategy
-
-Process Improvement & Executive Support
-
-Outsourcing & Remote Project Collaboration
+- Business Intelligence & Data Analysis
+- SQL, Tableau, Excel
+- Project Management & Operational Strategy
+- Process Improvement & Executive Support
+- Outsourcing & Remote Project Collaboration
 
 Links
-
 LinkedIn: https://www.linkedin.com/in/gertrudec/
-
-Portfolio/Resume: (add your link here)
--->
+Portfolio/Resume: 
+--> <a href='https://drive.google.com/file/d/15Ku0NHhH6uAMazCIFJp7jRpWZ3YXXl-v/view?usp=sharing target=_blank»<u>here</u>.</a></p>
