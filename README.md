@@ -29,5 +29,5 @@ I’m passionate about helping businesses harness their data to uncover opportun
 
 Links
 LinkedIn: https://www.linkedin.com/in/gertrudec/
-Portfolio/Resume: 
---> <a href='https://drive.google.com/file/d/15Ku0NHhH6uAMazCIFJp7jRpWZ3YXXl-v/view?usp=sharing target=_blank»<u>here</u>.</a></p>
+
+Review my resume <a href="[https://example.com](https://drive.google.com/file/d/15Ku0NHhH6uAMazCIFJp7jRpWZ3YXXl-v/view?usp=sharing)" target="_blank">Click me</a>
