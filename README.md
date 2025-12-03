@@ -1,6 +1,6 @@
 ## Hi there 👋🏾
 
-Hi there 👋🏾 I’m Gertrude 
+I’m Gertrude 
 
 🔭 I’m currently working on Business Intelligence projects, optimizing data workflows, and supporting organizations with actionable insights.
 
