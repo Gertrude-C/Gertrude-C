@@ -8,8 +8,6 @@ Hi there 👋🏾 I’m Gertrude
 
 💬 Ask me about Business Intelligence, data analysis, project management, and process optimization.
 
-📫 How to reach me: gertrude@dreambuildimpact.com
-
 ⚡ Fun fact: I’m an operations manager turned BI Analyst who loves softball, adrenaline rush activities, and curating Spotify playlists.
 
 About Me
