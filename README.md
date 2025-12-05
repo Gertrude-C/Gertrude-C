@@ -10,7 +10,8 @@ I’m Gertrude
 
 ⚡ Fun fact: I’m an operations manager turned BI Analyst who loves softball, adrenaline rush activities, and curating Spotify playlists.
 
-About Me
+About Me:
+
 I’m a Business Intelligence Analyst with a proven track record of turning complex data into actionable insights that drive business growth and operational efficiency. I specialize in SQL, Tableau, Excel, and project management, helping organizations streamline processes, optimize performance, and make data-driven decisions confidently.
 
 Over the past decade, I’ve supported executive teams, nonprofit organizations, and online businesses, managing operations, leading projects, and developing systems that enhance productivity and impact. I thrive at the intersection of analytics and strategy, translating data into clear recommendations for stakeholders across multiple sectors.
