@@ -26,9 +26,6 @@ I’m passionate about helping businesses harness their data to uncover opportun
 - Process Improvement & Executive Support
 - Outsourcing & Remote Project Collaboration
 
-Links
-LinkedIn: https://www.linkedin.com/in/gertrudec/
-
 Review my resume 
 <a href="https://drive.google.com/file/d/15Ku0NHhH6uAMazCIFJp7jRpWZ3YXXl-v/view?usp=sharing" target="_blank">Here</a>
 
