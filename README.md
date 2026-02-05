@@ -26,8 +26,8 @@ I’m passionate about helping businesses harness their data to uncover opportun
 - Process Improvement & Executive Support
 - Outsourcing & Remote Project Collaboration
 
-Review my resume 
-<a href="[https://docs.google.com/document/d/18l37uLI-CsefAxOpZQ3w_bYIpDxmtKeeLwDh18qOgzQ/edit?usp=sharing](https://docs.google.com/document/d/18l37uLI-CsefAxOpZQ3w_bYIpDxmtKeeLwDh18qOgzQ/edit?usp=sharing)" target="_blank">Here</a>
+Review my Resume 
+<a href="https://docs.google.com/document/d/18l37uLI-CsefAxOpZQ3w_bYIpDxmtKeeLwDh18qOgzQ/edit?usp=sharing](https://docs.google.com/document/d/18l37uLI-CsefAxOpZQ3w_bYIpDxmtKeeLwDh18qOgzQ/edit?usp=sharing" target="_blank">Here</a>
 
 
 
